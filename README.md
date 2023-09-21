@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicolasnotcage
-- 👀 I’m interested in Python and cybersecurity.
-- 🌱 I’m currently learning Assembly for reverse engineering and studying Computer Science at Johns Hopkins.
+- 👀 I’m interested in Python and data engineering.
+- 🌱 I’m currently studying Computer Science at Johns Hopkins.
 - 📫 How to reach me: https://www.linkedin.com/in/nj-miller
 
 <!---
