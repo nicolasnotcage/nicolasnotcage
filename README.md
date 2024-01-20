@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicolasnotcage
 - 👀 I’m interested in Rust, DSP, and Python.
-- 🌱 I’m currently studying Computer Science at Johns Hopkins.
+- 🌱 I’m currently pursuing an MS in Computer Science at Johns Hopkins.
 - 📫 How to reach me: https://www.linkedin.com/in/nj-miller
 
 <!---
