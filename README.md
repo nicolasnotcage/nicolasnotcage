@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nicolasnotcage
-- 👀 I’m interested in Rust, DSP, and Python.
+- 👀 I’m interested in C++, Rust, Python, and real-time audio processing.
 - 🌱 I’m currently pursuing an MS in Computer Science at Johns Hopkins.
 - 📫 How to reach me: https://www.linkedin.com/in/nj-miller
 
