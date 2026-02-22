@@ -1,4 +1,4 @@
-# @nicolasnotcage
+# Nicolas Miller
 
 **Systems Programmer** specializing in C++, emulators, and bare-metal development
 
